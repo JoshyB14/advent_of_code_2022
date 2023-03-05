@@ -1,2 +1,3 @@
 # advent_of_code_2022
  
+Attempting to solve the Advent of Code 2022 using DBT and DuckDB...
